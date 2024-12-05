@@ -1,6 +1,6 @@
 Weather App
 
-This weather application allows users to check the current weather of any city by simply entering its name. The app fetches data from the OpenWeather API, displays the temperature, humidity, weather description, and an appropriate weather emoji. A Project done to further my JavaScript Knowledge
+This weather application allows users to check the current weather of any city by simply entering its name. The app fetches data from the OpenWeather API, displays the temperature, humidity, weather description, and an appropriate weather emoji. A Personal project done to further my JavaScript Knowledge
 
 Key Features:
 - **Real-time Data Fetching:** The app uses JavaScript’s `fetch()` and `async/await` for fetching live weather data from the OpenWeather API based on user input.
